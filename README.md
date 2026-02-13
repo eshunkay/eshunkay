@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @eshunkay
+# 👋 Hi, I’m Eshun Kelvin
 
 👀 I’m interested in Cybersecurity, Embedded Systems, and Software Development. I enjoy exploring the latest tech trends, from ethical hacking to innovative app designs.
 
